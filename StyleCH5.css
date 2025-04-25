@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/18/19/03/abstract-557586_1280.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+        text-transform: uppercase;
+        text-align: center;
+        border: 2px solid brown;
+        background: peachpuff;
+        color: darkred;
+        box-shadow: 1px 1px 5px black;
+        border-radius: 10px;
+        padding: 3px 10px;
+        cursor: pointer;
+}
